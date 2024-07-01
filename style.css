@@ -1,0 +1,28 @@
+body { 
+    font-family: "Playwrite IT Moderna", cursive;
+    color: white;
+    background-color: rgba(150, 250, 250, 0.425);
+   
+}
+nav img{
+    height: 100px;
+    width: 150px;
+}
+nav {
+    background-color: rgb(79, 79, 230);
+}
+
+main {
+    margin-top: 100px;
+    color: rgb(79, 79, 230);
+}
+.jumbotron {
+    background-color: white;
+}
+
+.jumbotron img{
+    height: 180px;
+    width: 280px;
+   border-radius: 100px;
+
+}
